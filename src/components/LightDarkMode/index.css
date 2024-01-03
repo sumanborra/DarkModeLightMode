@@ -1,0 +1,46 @@
+/* Write your CSS here */
+
+bg-container2 {
+  background-color: #ffffff;
+  padding: 20pxpx;
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+}
+.bg-container {
+  background-color: #000000;
+  
+  border: 1px solid #000000;
+  padding: 60px;
+  font-family: 'Roboto';
+  text-align: center;
+  border-radius: 12px;
+}
+.heading {
+  font-size: 46px;
+  color: #ffffff;
+}
+.buttn {
+  font-family: 'Roboto';
+  height: 50px;
+  width: 140px;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 800;
+}
+.bg-container1 {
+  border-radius: 12px;
+ 
+  border: 1px solid #000000;
+  background-color: #ffffff;
+  padding: 60px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.heading1 {
+  font-size: 46px;
+  color: #000000;
+}
